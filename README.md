@@ -1,16 +1,23 @@
-### Hi there 👋
+# Miguel Arturo Alonso
+### E-mail: miguecamil@gmail.com
+### Técnico en Sistemas
 
-<!--
-**miguecamil/miguecamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Representante en el servicio técnico por mas de 10 años, apoyando los procesos en todo lo conserniente al e-help en grandes compañias.**
 
-Here are some ideas to get you started:
+Coordinador y administrador en los procesos de control de activos técnologicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soporte sobre sistemas operativos IOs, Windows X y Ubuntu al igual que sobre las herramientas ofimaticas requeridas por las compañias.
+
+Soporte sobre servicio móvil.
+
+Dentro del proceso administrativo ejecuto presentación de reportes con buen manejo de excel, manejo de administración de datos, muestra de resultados, creación de dashboards y uso de Power BI.
+
+### **Comandos de la terminal** 🔶
+| **Comandos** | **Descripción**                        |
+| ------------ | -------------------------------------- |
+| **ls**       | Lista las carpetas actuales            |
+| **cd**       | Nos permite navegar entre carpetas     |
+| **mkdir**    | Crea una nueva carpeta                 |
+| **cat**      | Imprime el contenido de un archivo     |
+| **rm**       | Permite remover archivos dada una ruta |
+
